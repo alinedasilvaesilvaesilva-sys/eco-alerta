@@ -1,16 +1,2 @@
-{
-  "name": "Eco-Alerta ADA",
-  "short_name": "EcoAlerta",
-  "description": "Painel Sustentável Comunitário de Monitoramento do Ar",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#16a34a",
-  "icons": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/3209/3209990.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+
 }
